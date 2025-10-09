@@ -25,10 +25,10 @@
 
 .information {
   padding-top: 20px;
-  background-image: url(../../img/information-back.png);
+  background-image: url(../img/information-back.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: -300px;
+  background-position: -299px;
 }
 .information__list {
   display: flex;
